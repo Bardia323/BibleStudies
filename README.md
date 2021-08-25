@@ -1,5 +1,6 @@
 # 📖 Bible Studies
 ## About The Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vQC7niBiRZRRg360oMx7EXq5Qn2yo97D)
 A small example of using markov chains and LSTM networks to model the bible. 
 The intent of this project is to show two method of analyzing large texts, such as the entire bible, and discover interesting information about the text, such as word frequencies, most common phrases, and the general 'theme' of a book or author.
 
